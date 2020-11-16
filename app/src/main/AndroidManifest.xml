@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme">
         <meta-data
             android:name="com.google.android.actions"
-            android:resource="@xml/border" />
+            android:resource="@drawable/border" />
 
         <activity
             android:name=".MainActivity"
